@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image:url(panda.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.head,.list,ul,li{
+    display: inline-block;
+}
+ul{
+    margin-left: 80%;
+    display: flex;
+}
+li{
+    background-color: pink;
+}
+li:hover{
+    background-color: darkblue;
+    border-radius: 0px;
+}
+h1{
+    color:red;
+    margin: 20px;
+}
+.type{
+    margin-right: 70%;
+}
+p{
+    color: black;
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.quote{
+    text-align: center;
+}
+.bottom{
+    margin-left: 30%;
+}
+.foot{
+    text-align: center;
+    color: red;
+}

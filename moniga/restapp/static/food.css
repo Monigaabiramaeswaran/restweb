@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(backgroundfood.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    line-height: 1.6;
+}
+h2{
+    color: lime;
+}
+h3{
+    color: limegreen;
+}
+.list,ul,li{
+    display: inline;
+    background-color: white;
+}
+li:hover{
+    background-color: lightgrey;
+}
+h1{
+    color: blue;
+    background-color: yellow;
+}
+
+.food{
+    border: 2px solid pink;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: darkgreen;
+    display: inline-block;
+}
+.food:hover{
+    background-color: green;
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.food-item h3{
+    color: white;
+}
