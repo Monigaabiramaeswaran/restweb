@@ -403,12 +403,12 @@ li:hover{
 
 
 ## OUTPUT:
-![alt text](<Screenshot (40).png>)
-![alt text](<Screenshot (41).png>)
-![alt text](<Screenshot (42).png>)
-![alt text](<Screenshot (43).png>)
-![alt text](<Screenshot (44).png>)
-![alt text](<Screenshot (45).png>)
+![alt text](<Screenshot (46).png>)
+![alt text](<Screenshot (47).png>)
+![alt text](<Screenshot (48).png>)
+![alt text](<Screenshot (49).png>)
+![alt text](<Screenshot (50).png>)
+![alt text](<Screenshot (51).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
